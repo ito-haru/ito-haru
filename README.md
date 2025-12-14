@@ -8,7 +8,7 @@ Currently, I also work as a Product Management Intern at HENNGE K.K., bridging t
 
 🌱 Working on:
 
-* Developing a JAX-based structural estimation library.
+* Developing [Econox](https://github.com/ito-haru/econox), a JAX-based structural estimation library.
 
 * Graduate thesis on behavioral modeling.
 
